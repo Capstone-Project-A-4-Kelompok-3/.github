@@ -1,4 +1,4 @@
-# Artificial Intelligence of Thing (AIoT) | Capstone
+# Artificial Intelligence of Things (AIoT) | Capstone
 
 ## Automated Counting Station
 **Sistem Verifikasi Kuantitas Part Mikro Menggunakan Density Map Estimation dan Sensor Fusion Berbasis Edge Computing**  
@@ -53,9 +53,9 @@ Our **Automated Counting Station** is built to automate Incoming Quality Control
   **Demo link:** _(Insert Google Drive / YouTube URL)_
 
 - **Dashboard Access:**
-  - `admin@iqcprecision.com`
-  - `vendor@jayapresisi.com`
-  - `vendor@whyfi.com`
+  - `admin@example.com`
+  - `vendor1@example.com`
+  - `vendor2@example.com`
 
 - **Evaluation Results:**
   - Tested on **119 varied datasets** and real-time inference scenarios.
@@ -70,12 +70,12 @@ This project delivers an **Edge Computing-based Automated Counting Station** tha
 ## Contact Us
 - **Our GitHub:** https://github.com/Capstone-Project-A-4-Kelompok-3
 - **Our LinkedIn:**
-  - [LinkedIn - Jonathan Arya Priguna]
-  - [LinkedIn - Achmad Fiky Akbar]
-  - [LinkedIn - Nabillah Septianisa Nur Azizah]
-  - [LinkedIn - Annisa Kayla Jasmine]
-  - [LinkedIn - Athar Iftikhar Akhsan]
-  - [LinkedIn - Arsa Maulana Adhyasta]
+  - [Jonathan Arya Priguna](https://www.linkedin.com/)
+  - [Achmad Fiky Akbar](https://www.linkedin.com/)
+  - [Nabillah Septianisa Nur Azizah](https://www.linkedin.com/)
+  - [Annisa Kayla Jasmine](https://www.linkedin.com/)
+  - [Athar Iftikhar Akhsan](https://www.linkedin.com/)
+  - [Arsa Maulana Adhyasta](https://www.linkedin.com/)
 
 ## Behind the Lens
 > _[Foto-foto Behind The Scenes Tim "Why-Fi" saat merakit Inspection Box, melabeli dataset, dan saat uji coba]_
