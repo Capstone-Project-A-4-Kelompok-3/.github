@@ -5,12 +5,12 @@
 **AI-based Density Map Estimation and Sensor Fusion for IQC Part Verification**
 
 ## Project Domain
-Our **Automated Counting Station** is built to automate Incoming Quality Control (IQC) verification for micro parts (such as screws and gears) inside sealed transparent plastic packaging. By combining **Artificial Intelligence (Density Map Estimation)** and **Sensor Fusion (weight counting)** on **Edge Computing**, the system avoids manual unsealing while improving accuracy, hygiene, and operational efficiency.
+Our **Automated Counting Station** is built to automate Incoming Quality Control (IQC) verification for micro parts (such as screws and gears) inside sealed transparent plastic packaging. The solution combines **Artificial Intelligence (Density Map Estimation)** and **Sensor Fusion (weight counting)** on **Edge Computing**. This approach avoids manual unsealing while improving accuracy, hygiene, and operational efficiency.
 
 ## Meet Our Team "Why-Fi"
 - **Hardware & Sensor Engineer:** Jonathan Arya Priguna
 - **Hardware & Sensor Engineer:** Achmad Fiky Akbar
-- **System Integration Engineer:** Nabillah Septianisa Nur A
+- **System Integration Engineer:** Nabillah Septianisa Nur Azizah
 - **Business & System Analyst:** Annisa Kayla Jasmine
 - **Machine Learning Engineer:** Athar Iftikhar Akhsan
 - **Machine Learning Engineer:** Arsa Maulana Adhyasta
