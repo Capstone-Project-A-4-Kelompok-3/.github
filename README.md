@@ -76,4 +76,4 @@ This project delivers an **Edge Computing-based Automated Counting Station** tha
   - [Arsa Maulana Adhyasta](https://www.linkedin.com/in/arsa-maulana-adhyasta)
 
 ## Behind the Lens
-Behind-the-scenes documentation will be published after final media curation.
+Behind-the-scenes team photos and testing footage will be published after final media curation.
