@@ -8,12 +8,12 @@
 Our **Automated Counting Station** is built to automate Incoming Quality Control (IQC) verification for micro parts (such as screws and gears) inside sealed transparent plastic packaging. By combining **Artificial Intelligence (Density Map Estimation)** and **Sensor Fusion (weight counting)** on **Edge Computing**, the system avoids manual unsealing while improving accuracy, hygiene, and operational efficiency.
 
 ## Meet Our Team "Why-Fi"
-- **Hardware & Sensor Engineer:** JONATHAN ARYA PRIGUNA (235150301111015)
-- **Hardware & Sensor Engineer:** ACHMAD FIKY AKBAR (235150301111043)
-- **System Integration Engineer:** NABILLAH SEPTIANISA NUR A (235051707111002)
-- **Business & System Analyst:** ANNISA KAYLA JASMINE (235150407111004)
-- **Machine Learning Engineer:** ATHAR IFTIKHAR AKHSAN (235150200111010)
-- **Machine Learning Engineer:** ARSA MAULANA ADHYASTA (235150201111030)
+- **Hardware & Sensor Engineer:** JONATHAN ARYA PRIGUNA
+- **Hardware & Sensor Engineer:** ACHMAD FIKY AKBAR
+- **System Integration Engineer:** NABILLAH SEPTIANISA NUR A
+- **Business & System Analyst:** ANNISA KAYLA JASMINE
+- **Machine Learning Engineer:** ATHAR IFTIKHAR AKHSAN
+- **Machine Learning Engineer:** ARSA MAULANA ADHYASTA
 
 ## Problem Statements
 1. Traditional verification of micro parts (< 3 grams) requires operators to open sealed transparent plastics manually, reducing hygiene standards and increasing repackaging workload.
@@ -53,7 +53,7 @@ Our **Automated Counting Station** is built to automate Incoming Quality Control
   **Demo link:** _(Insert Google Drive / YouTube URL)_
 
 - **Dashboard Access:**
-  > _Example account formats only (replace with authorized internal credentials)._
+  > _Example account formats only. Replace with authorized internal credentials and do not use these example addresses in production._
   - `admin@example.com`
   - `vendor1@example.com`
   - `vendor2@example.com`
