@@ -8,12 +8,12 @@
 Our **Automated Counting Station** is built to automate Incoming Quality Control (IQC) verification for micro parts (such as screws and gears) inside sealed transparent plastic packaging. By combining **Artificial Intelligence (Density Map Estimation)** and **Sensor Fusion (weight counting)** on **Edge Computing**, the system avoids manual unsealing while improving accuracy, hygiene, and operational efficiency.
 
 ## Meet Our Team "Why-Fi"
-- **Hardware & Sensor Engineer:** JONATHAN ARYA PRIGUNA
-- **Hardware & Sensor Engineer:** ACHMAD FIKY AKBAR
-- **System Integration Engineer:** NABILLAH SEPTIANISA NUR A
-- **Business & System Analyst:** ANNISA KAYLA JASMINE
-- **Machine Learning Engineer:** ATHAR IFTIKHAR AKHSAN
-- **Machine Learning Engineer:** ARSA MAULANA ADHYASTA
+- **Hardware & Sensor Engineer:** Jonathan Arya Priguna
+- **Hardware & Sensor Engineer:** Achmad Fiky Akbar
+- **System Integration Engineer:** Nabillah Septianisa Nur A
+- **Business & System Analyst:** Annisa Kayla Jasmine
+- **Machine Learning Engineer:** Athar Iftikhar Akhsan
+- **Machine Learning Engineer:** Arsa Maulana Adhyasta
 
 ## Problem Statements
 1. Traditional verification of micro parts (< 3 grams) requires operators to open sealed transparent plastics manually, reducing hygiene standards and increasing repackaging workload.
@@ -46,7 +46,7 @@ Our **Automated Counting Station** is built to automate Incoming Quality Control
 - **React & Tailwind CSS** for interactive QC analytics dashboard.
 
 ## Schematic
-> _[Gambar Arsitektur Sistem, Flowchart Edge PC & Dashboard]_
+> _[System Architecture Diagram, Edge PC & Dashboard Flowchart]_
 
 ## Demo and Evaluation
 - **Demo:** Real-time verification of sealed plastic bags containing overlapping screws. The system captures images, generates a density heatmap, reads live weight, and displays final **OK/NG** status and discrepancy logs on the dashboard.  
@@ -79,4 +79,4 @@ This project delivers an **Edge Computing-based Automated Counting Station** tha
   - [Arsa Maulana Adhyasta](https://www.linkedin.com/in/arsa-maulana-adhyasta)
 
 ## Behind the Lens
-> _[Foto-foto Behind The Scenes Tim "Why-Fi" saat merakit Inspection Box, melabeli dataset, dan saat uji coba]_
+> _[Behind-the-scenes photos of Team "Why-Fi" assembling the Inspection Box, labeling datasets, and conducting trials]_
