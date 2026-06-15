@@ -21,7 +21,7 @@ Our **Automated Counting Station** is built to automate Incoming Quality Control
 3. There is no integrated digital documentation system for real-time inspection evidence, making historical tracking, audits, and vendor claim processes (Return Delivery Order/R1) difficult.
 
 ## Goals
-1. Develop an AI model to estimate heavily overlapping micro-part counts through plastic packaging with low **Mean Absolute Error (MAE)**.
+1. Develop an AI model to estimate heavily overlapping micro-part counts through plastic packaging with a target **Mean Absolute Error (MAE) < 5 parts**.
 2. Integrate visual estimation with load-cell data (sensor fusion) to cross-validate results and reduce error margins versus manual methods.
 3. Deploy a secure standalone edge station with synchronized dashboard for real-time **OK/NG** status and automated logs for internal and vendor monitoring.
 
@@ -57,7 +57,7 @@ System architecture and flowchart assets are being finalized and will be publish
 
 - **Evaluation Results:**
   - Tested on **119 varied test packages** and real-time inference scenarios.
-  - **AI Visual Counting Accuracy:** MAE of ~**4.73** for severely overlapped objects.
+  - **AI Visual Counting Accuracy:** MAE of **4.73 parts** for severely overlapped objects.
   - **Processing Speed:** < **3 seconds** per package.
   - **Hardware Stability:** Weight signal noise reduced with **Exponential Moving Average (EMA)** filtering.
   - **Data Synchronization:** **100% success rate** for local logging and NG alert cloud sync.
