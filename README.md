@@ -46,17 +46,14 @@ Our **Automated Counting Station** is built to automate Incoming Quality Control
 - **React & Tailwind CSS** for interactive QC analytics dashboard.
 
 ## Schematic
-> _[System Architecture Diagram, Edge PC & Dashboard Flowchart]_
+System architecture and flowchart assets are being finalized and will be published soon.
 
 ## Demo and Evaluation
 - **Demo:** Real-time verification of sealed plastic bags containing overlapping screws. The system captures images, generates a density heatmap, reads live weight, and displays final **OK/NG** status and discrepancy logs on the dashboard.  
-  **Demo link:** _(Insert Google Drive / YouTube URL)_
+  **Demo link:** _Coming soon._
 
 - **Dashboard Access:**
-  > _Example account formats only. Replace with authorized internal credentials and do not use these example addresses in production._
-  - `admin@example.com`
-  - `vendor1@example.com`
-  - `vendor2@example.com`
+  Access credentials are managed internally. Please contact the project team or refer to internal documentation for authorized account access.
 
 - **Evaluation Results:**
   - Tested on **119 varied datasets** and real-time inference scenarios.
@@ -79,4 +76,4 @@ This project delivers an **Edge Computing-based Automated Counting Station** tha
   - [Arsa Maulana Adhyasta](https://www.linkedin.com/in/arsa-maulana-adhyasta)
 
 ## Behind the Lens
-> _[Behind-the-scenes photos of Team "Why-Fi" assembling the Inspection Box, labeling datasets, and conducting trials]_
+Behind-the-scenes documentation will be published after final media curation.
