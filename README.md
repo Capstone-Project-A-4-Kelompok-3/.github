@@ -17,7 +17,7 @@ Our **Automated Counting Station** is built to automate Incoming Quality Control
 
 ## Problem Statements
 1. Traditional verification of micro parts (< 3 grams) requires operators to open sealed transparent plastics manually, reducing hygiene standards and increasing repackaging workload.
-2. Manual counting is highly prone to human error, with around **±3% discrepancy** between actual quantity and vendor data, potentially causing production stop-lines.
+2. Manual counting is highly prone to human error, with around **±3% discrepancy** between actual quantity and vendor data, potentially causing production line stoppages.
 3. There is no integrated digital documentation system for real-time inspection evidence, making historical tracking, audits, and vendor claim processes (Return Delivery Order/R1) difficult.
 
 ## Goals
@@ -56,7 +56,7 @@ System architecture and flowchart assets are being finalized and will be publish
   Access credentials are managed internally. Please contact the project team or refer to internal documentation for authorized account access.
 
 - **Evaluation Results:**
-  - Tested on **119 varied datasets** and real-time inference scenarios.
+  - Tested on **119 varied test packages** and real-time inference scenarios.
   - **AI Visual Counting Accuracy:** MAE of ~**4.73** for severely overlapped objects.
   - **Processing Speed:** < **3 seconds** per package.
   - **Hardware Stability:** Weight signal noise reduced with **Exponential Moving Average (EMA)** filtering.
