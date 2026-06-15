@@ -53,6 +53,7 @@ Our **Automated Counting Station** is built to automate Incoming Quality Control
   **Demo link:** _(Insert Google Drive / YouTube URL)_
 
 - **Dashboard Access:**
+  > _Example account formats only (replace with authorized internal credentials)._
   - `admin@example.com`
   - `vendor1@example.com`
   - `vendor2@example.com`
@@ -70,12 +71,12 @@ This project delivers an **Edge Computing-based Automated Counting Station** tha
 ## Contact Us
 - **Our GitHub:** https://github.com/Capstone-Project-A-4-Kelompok-3
 - **Our LinkedIn:**
-  - [Jonathan Arya Priguna](https://www.linkedin.com/)
-  - [Achmad Fiky Akbar](https://www.linkedin.com/)
-  - [Nabillah Septianisa Nur Azizah](https://www.linkedin.com/)
-  - [Annisa Kayla Jasmine](https://www.linkedin.com/)
-  - [Athar Iftikhar Akhsan](https://www.linkedin.com/)
-  - [Arsa Maulana Adhyasta](https://www.linkedin.com/)
+  - [Jonathan Arya Priguna](https://www.linkedin.com/in/jonathan-arya-priguna)
+  - [Achmad Fiky Akbar](https://www.linkedin.com/in/achmad-fiky-akbar)
+  - [Nabillah Septianisa Nur Azizah](https://www.linkedin.com/in/nabillah-septianisa-nur-azizah)
+  - [Annisa Kayla Jasmine](https://www.linkedin.com/in/annisa-kayla-jasmine)
+  - [Athar Iftikhar Akhsan](https://www.linkedin.com/in/athar-iftikhar-akhsan)
+  - [Arsa Maulana Adhyasta](https://www.linkedin.com/in/arsa-maulana-adhyasta)
 
 ## Behind the Lens
 > _[Foto-foto Behind The Scenes Tim "Why-Fi" saat merakit Inspection Box, melabeli dataset, dan saat uji coba]_
